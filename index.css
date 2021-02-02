@@ -109,7 +109,10 @@ label{
         left:17rem;
     }
     input,#inputaddress3{
-        width: 5rem!important;
+        width: 18rem!important;
+    }
+    .alert1{
+        height: 5rem!important;
     }
 }
 
