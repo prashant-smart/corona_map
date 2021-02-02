@@ -111,9 +111,7 @@ label{
     input,#inputaddress3{
         width: 18rem!important;
     }
-    .alert1{
-        height: 5rem!important;
-    }
+   
 }
 
 
@@ -133,7 +131,7 @@ label{
                 0 0 75px red;
 }
 #error,#sucess{
-    height:3rem!important;
+    height:4rem!important;
 }
 @media (min-width:200px) and (max-width: 356px){
     #div{
